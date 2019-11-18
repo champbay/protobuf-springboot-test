@@ -1,0 +1,13 @@
+package com.champbay.blog.protobuf;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootProtobufTestApplication {
+	
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootProtobufTestApplication.class, args);
+	}
+	
+}
